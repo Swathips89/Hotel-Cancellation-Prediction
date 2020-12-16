@@ -1,2 +1,4 @@
 # Hotel-Cancellation-Prediction
 Hotel Cancellation Prediction of Resort and City hotel
+A Hotel chain wants to predict hotel booking cancellations for their two categories of hotel type for the upcoming year. To achieve this target the hotel can utilize the data of prior cancellations over the last 3 years and build a classification model.
+Dataset: This data describes two hotel categories with hotel demand data. One of the hotels (H1) is a resort hotel and the other is a city hotel (H2), with 31 variables describing the 40,060 observations of H1 and 79,330 observations of H2. Each observation represents a hotel booking. Data comprehend bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were canceled.
